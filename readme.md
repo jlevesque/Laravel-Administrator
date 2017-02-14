@@ -3,12 +3,23 @@
 Administrator is an administrative interface builder for [Laravel](http://laravel.com). With Administrator you can visually manage your Eloquent models and their relations, and also create stand-alone settings pages for storing site data and performing site tasks.
 
 - **Author:** Jan Hartigan
-- **Website:** [http://frozennode.com](http://administrator.frozennode.com/)
+- **Website:** [http://frozennode.mediaceh.ru](http://frozennode.mediaceh.ru/)
 - **Version:** 5.0.12
 
 [![Build Status](https://travis-ci.org/FrozenNode/Laravel-Administrator.png?branch=master)](https://travis-ci.org/FrozenNode/Laravel-Administrator)
 
 <img src="https://raw.github.com/FrozenNode/Laravel-Administrator/master/examples/images/overview.jpg" />
+
+## Information about the fork and upcoming features
+
+With this fork, I'm hoping to make this admin panel more customizable with some basic global action. I'll do my best to update the documentation.
+
+Since I have a full time, it's possible that I don't have the time to work on this repo... lol.
+
+### Features I want to add:
+- (not started) Import/Export with [Maatwebsite/Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel)
+- (not started) Publishing views in views/vendor for a better customization
+- (not started) Merge with the usage of Laravel's authentication system and with the roles and permission of [Zizaco/entrust](https://github.com/Zizaco/entrust)
 
 ## Composer
 
@@ -53,7 +64,7 @@ Since Administrator has switched over to Composer, you can no longer use `php ar
 
 ## Documentation
 
-The complete docs for Administrator can be found at http://administrator.frozennode.com. You can also find the docs in the `/src/docs` directory.
+The complete docs for Administrator can be found at http://frozennode.mediaceh.ru. You can also find the docs in the `/src/docs` directory.
 
 
 ## Copyright and License
