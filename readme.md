@@ -17,6 +17,7 @@ With this fork, I'm hoping to make this admin panel more customizable with some 
 Since I have a full time, it's possible that I don't have the time to work on this repo... lol.
 
 ### Features I want to add:
+- (not started) Transfert documentation in a readthedoc project.
 - (not started) Import/Export with [Maatwebsite/Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel)
 - (not started) Publishing views in views/vendor for a better customization
 - (not started) Merge with the usage of Laravel's authentication system and with the roles and permission of [Zizaco/entrust](https://github.com/Zizaco/entrust)
