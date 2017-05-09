@@ -1,0 +1,38 @@
+{
+  "name": "laravel-adminnistrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap-sass": "*",
+    "jquery": "*",
+    "font-awesome": "*",
+    "gulp": "*",
+    "gulp-concat": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "babelify": "*",
+    "babel-preset-es2015": "*",
+    "vinyl-source-stream": "*",
+    "watchify": "*",
+    "gulp-uglify": "*",
+    "gulp-streamify": "*",
+    "browserify": "*",
+    "event-stream": "*",
+    "gulp-tap": "*",
+    "gulp-util": "*",
+    "run-sequence": "*",
+    "vinyl-buffer": "*",
+    "jshint":"*",
+    "gulp-jshint":"*",
+    "jshint-stylish":"*",
+    "jshint-stylish-summary":"*",
+    "glob":"*"
+  }
+}
